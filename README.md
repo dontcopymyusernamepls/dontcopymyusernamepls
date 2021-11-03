@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @dontcopymyusernamepls
+- 👀 I’m interested in eating and sleeping.
+- 🌱 I’m currently learning programming...
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me. Don't reach me!
+
+<!---
+dontcopymyusernamepls/dontcopymyusernamepls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
